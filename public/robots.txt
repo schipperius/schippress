@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://schipperius.com/sitemap.xml 
+Sitemap: http://website.com/sitemap.xml 

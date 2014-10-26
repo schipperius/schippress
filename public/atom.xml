@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[the Nature of Things]]></title>
+  <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-10-26T03:10:34+00:00</updated>
+  <updated>2014-10-26T03:17:01+00:00</updated>
   <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Mark Schipper]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

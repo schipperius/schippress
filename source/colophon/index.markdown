@@ -4,7 +4,12 @@ title: "Colophon"
 footer: false
 ---
 
-This **website** is a personal [blog](http://en.wikipedia.org/wiki/Blog) **built** with [Cloud9](https://c9.io/), an [open source](http://en.wikipedia.org/wiki/Open_source), [integrated development environment](http://en.wikipedia.org/wiki/Integrated_development_environment) (IDE) in the [cloud](http://en.wikipedia.org/wiki/Cloud_computing), **powered** by [Octopress](http://octopress.org), a static [blogging framework](http://en.wikipedia.org/wiki/Software_framework) built on top of [Jekyll](http://jekyllrb.com/), **writen** in [Ruby](http://en.wikipedia.org/wiki/Ruby_(programming_language), an open source [programming language](http://en.wikipedia.org/wiki/Programming_language), **deployed** with [Git](http://git-scm.com/), an open source [distributed version control system](http://en.wikipedia.org/wiki/Distributed_revision_control), **hosted** by [Heroku](http://heroku.com), a [platform as a service](http://en.wikipedia.org/wiki/Platform_as_a_service) and **accessed** via [schipperius.com](http://www.schipperius.com/), the custom [domain](http://en.wikipedia.org/wiki/Domain_name) of this site.
+This **website** is a personal [blog](http://en.wikipedia.org/wiki/Blog) **built** with [Cloud9](https://c9.io/), an [open source](http://en.wikipedia.org/wiki/Open_source), [integrated development environment](http://en.wikipedia.org/wiki/Integrated_development_environment) (IDE) that's, well, in the [cloud](http://en.wikipedia.org/wiki/Cloud_computing), **powered** by [Octopress](http://octopress.org), a static [blogging framework](http://en.wikipedia.org/wiki/Software_framework) built on top of [Jekyll](http://jekyllrb.com/), **writen** in [Ruby](http://en.wikipedia.org/wiki/Ruby_(programming_language), an open source [programming language](http://en.wikipedia.org/wiki/Programming_language), **deployed** with [Git](http://git-scm.com/), an open source [distributed version control system](http://en.wikipedia.org/wiki/Distributed_revision_control), **hosted** by [Heroku](http://heroku.com), a [platform as a service](http://en.wikipedia.org/wiki/Platform_as_a_service), **routed** with [Route53](http://aws.amazon.com/route53/), a cloud [Domain Name System](http://en.wikipedia.org/wiki/Domain_Name_System) (DNS), **accessed** via [schipperius.com](http://www.schipperius.com/), the custom [domain](http://en.wikipedia.org/wiki/Domain_name) of this site.
+
+>
+It's all going to the cloud!
+![It's all going to the cloud!](/images/articles/cloud.jpg/ "It's all going to the cloud!")
+<small><small>Photograph Credit: [Mike Perham](https://www.mikeperham.com/2014/07/23/building-systems-and-the-cloud/). Used without permission.</small></small>
 
 ---
 </br>
@@ -14,4 +19,5 @@ A quick search led me to Elizabeth Castro’s, <a href="http://www.amazon.ca/gp/
 
 In August 2010, I found [Ruby on Rails](http://rubyonrails.org/) and discovered [web development](http://en.wikipedia.org/wiki/Web_development) thanks to Michael Hartl and his [Ruby on Rails Tutorial](https://www.railstutorial.org/). 
 
-From there, I built and rebuilt a local environment using a number of tools including OS X as the operating system, [iTerm2](http://www.iterm2.com/) as a command line interface (CLI) used to interact directly with the computer. [Homebrew](http://mxcl.github.com/homebrew/) as a package management system that easily installs an asortment of additional tools. [Sublime Text](http://www.sublimetext.com/) as a text editor and of course [Google Chrome](https://www.google.com/chrome) to see the results.
+From there, I built (and rebuilt) many local environments using a number of tools including OS X as the operating system, [iTerm2](http://www.iterm2.com/) as a command line interface (CLI) used to interact directly with the computer. [Homebrew](http://mxcl.github.com/homebrew/) as a package management system that easily installs an asortment of additional tools. [Sublime Text](http://www.sublimetext.com/) as a text editor and of course [Google Chrome](https://www.google.com/chrome) to see the results.
+

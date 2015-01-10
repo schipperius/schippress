@@ -10,12 +10,6 @@ This innate curiosity drives my motivation to seek out that which I do not yet k
 
 Does the [Web](http://en.wikipedia.org/wiki/World_Wide_Web) need another blog like this one? I don’t think so, but if some good can come of it, then sobeit. 
 
->
-It is written.
-</br>
-![It is written.](/images/articles/maktub.png/ "It is written.")
-</br>
-<small><small>Photograph Credit: [Unknown](http://www.techofheart.co/2006/06/maktub-what-does-it-mean-that.html). Used without permission.</small></small>
 
 Enjoy <a class="read-on" href="/articles">the articles</a>.
 

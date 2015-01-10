@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[the Nature of Things]]></title>
-  <link href="http://website.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Unknown | the Nature of Things]]></title>
+  <link href="http://website.com/categories/unknown/atom.xml" rel="self"/>
   <link href="http://website.com/"/>
   <updated>2015-01-10T19:39:46+00:00</updated>
   <id>http://website.com/</id>
@@ -20,7 +20,7 @@
     <id>http://website.com/articles/it-is-written</id>
     <content type="html"><![CDATA[<blockquote><p>It is written.
 </br>
-<img src="http://website.com/images/articles/maktub.png/" title="It is written." alt="It is written." />
+<img src="/images/articles/maktub.png/" title="It is written." alt="It is written." />
 </br>
 <small><small>Photograph Credit: <a href="http://www.techofheart.co/2006/06/maktub-what-does-it-mean-that.html">Unknown</a>. Used without permission.</small></small></p></blockquote>
 ]]></content>

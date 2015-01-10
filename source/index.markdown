@@ -4,7 +4,7 @@ title: "Oh, Hello There!"
 footer: false
 ---
 
-From my earliest recolections I have been on a mission to explore, investigate and learn.
+From my earliest memories I have always tended to explore, investigate and learn.
 
 This innate curiosity drives my motivation to seek out that which I do not yet know or understand. It was recently suggested that I share my observations with a wider audience.
 

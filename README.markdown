@@ -1,3 +1,3 @@
-## the Nature of Things - it's a bit Circuitous!
+## the Nature of Things
 
-This is the personal blog of Mark Schiper.
+the personal blog of Mark Schipper.

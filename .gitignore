@@ -11,3 +11,7 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
+
+ssh-keygen -t rsa
+ssh-kegen -t rsa.public
+tmux.conf

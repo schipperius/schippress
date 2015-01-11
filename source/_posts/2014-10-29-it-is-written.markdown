@@ -3,7 +3,7 @@ layout: post
 title: "It is written"
 date: 2014-10-29 07:48
 comments: true
-categories: [Unknown]
+categories: []
 draft: false
 published: true
 ---

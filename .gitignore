@@ -1,8 +1,12 @@
 .bundle
 .DS_Store
+.c9
+.git
+.pygments-cache
 .sass-cache
 .gist-cache
-.pygments-cache
+.themes
+code
 _deploy
 
 sass.old
@@ -11,5 +15,3 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
-
-.c9
